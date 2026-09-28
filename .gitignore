@@ -1,0 +1,15 @@
+# Spotify token cache (contains your access/refresh tokens)
+.cache
+.cache-*
+
+# Generated calendar file (reveals your listening habits)
+*.ics
+
+# Local secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
